@@ -3,8 +3,6 @@
 - 🌱 I'm currently learning React , typeScript, python and more..
 
 - 📫 How to reach me:  Connect with me on LinkedIn[www.linkedin.com/in/gabochaca]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Cylom32/Cylom32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
