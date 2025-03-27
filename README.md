@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>   -->
     
-<h1 align="left">- 👋 Hi, I’m Gabriel Chavarrria , a Software Engineer in training passionate about full-stack development and machine learning.
+<h4 align="left">- 👋 Hi, I’m Gabriel Chavarrria , a Software Engineer in training passionate about full-stack development and machine learning.
 - 👀 I’m interested in building scalable and user-friendly web applications, exploring the potential of AI, and diving deeper into cloud computing.
 - 🌱 I'm currently learning React , typeScript, python and more..
 
-- 📫 How to reach me:  Connect with me on LinkedIn[www.linkedin.com/in/gabochaca]</h1>
+- 📫 How to reach me:  Connect with me on LinkedIn[www.linkedin.com/in/gabochaca]</h4>
 
 
 
